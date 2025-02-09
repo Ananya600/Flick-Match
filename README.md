@@ -1,16 +1,34 @@
-# flick_match
+# Flick Match
 
-A new Flutter project.
+## Basic Details
 
-## Getting Started
+### Team Name: FlickMatch
+### Team Members:
+K Ananya Ramesh<br>
+Aardra S V
 
-This project is a starting point for a Flutter application.
+### Project Description:
+This a movie recommendation app with the inteface of Tinder. Swiping right on a movie adds it to "Liked Movies". The recommendations are based on the most popular movies during the timeframe.
 
-A few resources to get you started if this is your first Flutter project:
+### Problem Statement:
+Movie recommendation app with API integration.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### The Solution?
+Flick Match!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technical Details:
+### Technologies/Components Used
+   For Software:<br>
+    Language: Dart<br>
+    Framework: Flutter Framework<br>
+    Libraries Used:appinio_swiper<br> TMDB API<br>
+
+### Implementation
+
+
+## Screenshots
+
+
+## Diagrams
+
+### Project Demo
