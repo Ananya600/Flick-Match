@@ -22,13 +22,15 @@ Flick Match!
     Language: Dart<br>
     Framework: Flutter Framework<br>
     Libraries Used:appinio_swiper<br> TMDB API<br>
-
-### Implementation
-
-
+    
 ## Screenshots
+![Scrnsht 1](https://github.com/user-attachments/assets/e3b38a70-cd05-4069-b390-cab0ade4e762)
+![Scrnsht2](https://github.com/user-attachments/assets/2b099e02-a23f-4f72-9908-f191da4477df)
+![Scrsht3](https://github.com/user-attachments/assets/8ae9ec67-1c53-45f2-865e-c3e9d361b055)
 
+## Demo Video
+https://drive.google.com/file/d/1agDFLSvYgfLzaYTwztaNtrIvHGeH4QD0/view?usp=sharing
 
-## Diagrams
-
-### Project Demo
+## Team Contribution
+Aardra S V : Welcome Page, Liked Movies, Design<br>
+K Ananya Ramesh: API integration, Flutter Swipe
