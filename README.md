@@ -8,7 +8,7 @@ K Ananya Ramesh<br>
 Aardra S V
 
 ### Project Description:
-This a movie recommendation app with the interphse of Tinder. Swiping right on a movie adds it to "Liked Movies". The recommendations are based on the most popular movies during the timeframe.
+This a movie recommendation app with the interphase of Tinder. Swiping right on a movie adds it to "Liked Movies". The recommendations are based on the most popular movies during the timeframe.
 
 ### Problem Statement:
 Movie recommendation app with API integration.
